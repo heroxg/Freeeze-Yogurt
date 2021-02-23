@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 import Breadcrumb from './../../shared/breadcrumb/Breadcrumb'
 import breadcrumbImage from './../../assets/images/bg-header-about.jpg'
 
