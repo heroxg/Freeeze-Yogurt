@@ -1,0 +1,14 @@
+.product-wrap {
+    background-color: #fff;
+    float: left;
+    width: 100%;
+}
+.product-wrap {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.product-wrap p {
+    color: #e32a62;
+    font-size: 20px;
+    text-transform: uppercase;
+}

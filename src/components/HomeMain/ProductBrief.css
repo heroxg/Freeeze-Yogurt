@@ -1,0 +1,46 @@
+.product-brief {
+    float: left;
+    width: 100%;
+    background: #ebe7e8;
+}
+.product-brief h1 {
+    color: #7A6666;
+    display: block;
+    font-family: lato-bold-webfont;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 47px 0 18px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.product-brief h2 {
+    color: #E32A62;
+    display: block;
+    font-family: magra-bold-webfont;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 0 26px;
+    text-align: left;
+    text-transform: none;
+}
+.product-brief p {
+    color: #7a6666;
+    display: block;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 70%;
+}
+@media screen and(max-wdth: 550px) {
+    .product-brief p {
+        width: 100% !important;
+    }
+}

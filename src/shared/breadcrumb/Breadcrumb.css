@@ -1,0 +1,15 @@
+.breadcrumb-box {
+    background-color: #c8c10d;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.breadcrumb-box h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}

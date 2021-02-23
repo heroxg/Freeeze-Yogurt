@@ -1,0 +1,23 @@
+.company-stands {
+    float: left;
+    width: 100%;
+    background: #c8c10d;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.company-stands ul {
+    width: 100%;
+    float: left;
+    margin-bottom: 0px;
+}
+.company-stands ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+@media screen and (max-width: 560px) {
+    .brand-identity {
+        margin-bottom: 30px;
+    }
+}
