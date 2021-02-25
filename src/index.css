@@ -12,7 +12,7 @@ body {
 img {
 	max-width: 100%;
 }
-.header {
+/* .header {
 	background-color: #f8f8f8;
 	margin: 0;
 	max-width: none;
@@ -34,7 +34,7 @@ img {
 	min-height: 660px;
 	padding: 0;
 	position: relative;
-}
+} */
 a.ad-btn {
 	background: url(../src/assets/images/icons.png) no-repeat 0 -128px;
 	color: #FFFFFF;
@@ -46,11 +46,11 @@ a.ad-btn {
 	line-height: 24px;
 	margin: 0;
 	padding: 52px 0 0;
-	position: absolute;
-	right: 130px;
+	/* position: absolute; */
+	/* right: 130px; */
 	text-align: center;
 	text-transform: uppercase;
-	top: 437px;
+	/* top: 437px; */
 	width: 156px;
 	z-index: 90;
 }
@@ -206,11 +206,11 @@ a.ad-btn {
 	overflow: hidden;
 	padding: 0;
 }
-#body div.header div {
+/* #body div.header div {
 	margin: 0 auto;
 	max-width: 960px;
 	padding: 0;
-}
+} */
 #body div.header div h1 {
 	color: #FFFFFF;
 	font-family: lato-regular-webfont;
@@ -935,3 +935,4 @@ a.ad-btn {
 #footer div .connect a.twitter {
 	background-position: 0 -96px;
 }
+

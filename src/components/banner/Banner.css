@@ -1,3 +1,31 @@
 .banner-sec {
     background-color: #f8f8f8 !important;
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.banner-sec img {
+    text-align: center;
+}
+.button-box {
+    position: absolute;
+    right: 125px;
+    top: 72%;
+    z-index: 99;
+}
+@media screen and (max-width: 760px) {
+    .header img {
+        left: 0 !important;
+        margin: unset !important;
+        width: unset !important;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .button-box {
+        position: absolute;
+        right: 27px;
+        top: 46%;
+        z-index: 99;
+    }
 }

@@ -7,9 +7,9 @@ import './Banner.css'
 class Banner extends Component {
     render() {
         return (
-            <div className="header banner-sec">
+            <div className="banner-sec">
                 <img src={BannerPic} alt="" />
-                <div>
+                <div class="button-box">
                     <Link to="product.html" className="ad-btn">Freeze Delight</Link>
                 </div>
             </div>
