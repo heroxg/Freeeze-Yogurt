@@ -27,7 +27,7 @@ class About extends Component {
                             <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,</p>
                             <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text</p>
                             <h1>We Have More Yogurt For You</h1>
-                            <p>it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic <Link to="/product">>Free Yogurt</Link>. it to make a type specimen book. It has survived not only five centuries <Link to="/product">Free</Link> it to make a type specimen book.</p>
+                            <p>it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic <Link to="/product">Free Yogurt</Link>. it to make a type specimen book. It has survived not only five centuries <Link to="/product">Free</Link> it to make a type specimen book.</p>
                             <h1>Yogurt Details</h1>
                             <span>Design Version 2.</span>
                             <span>Code Version 1.</span>
